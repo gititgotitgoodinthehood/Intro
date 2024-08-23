@@ -7,7 +7,7 @@ Hello
 I dont' really have any interests. I have dogs, watch TV, exercise, and go to work. 
 Now I am starting a M.S. in data science at Eastern University
 I do not understand why I have to create this file to be eligible for the student account that I am already eligible for. 
-Thank you.
+Thank you!
 
 ## Holding 
 
